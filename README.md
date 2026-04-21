@@ -8,7 +8,7 @@ This example uses the Code39 symbology, which consists of numbers, some letters,
 
 Now, lets assume a scenario of the following type:  Company X wants to convert a whole bunch of paper documents into digital documents.  The documents are text documents written by two employees.  Company X has come up with a file system that uses only numbers.  The directory for text documents is “1234”, the number of employee 1 is “4444” and the number of employee 2 is “888”.  Company also wants each filename to have the format of “111_x.tif”.  Using this system, the pages can be scanned and stored in the proper directory structure.  
 
-This is a C# application. We also offer a [VB.NET version]().
+This is a C# application. We also offer a [VB.NET version](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_VB_x86).
 
 
 ### Document Prep
@@ -67,7 +67,7 @@ Still, if you wish to use NuGet for the dependencies instead of relying on local
 
 
 ## Downloading source
-The sources can be downloaded for [c#](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x64/archive/refs/heads/main.zip) and [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_VB_x64/archive/refs/heads/main.zip)
+The sources can be downloaded for [c#](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86/archive/refs/heads/main.zip) and [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_VB_x86/archive/refs/heads/main.zip)
 
 
 ## Cloning
@@ -75,7 +75,7 @@ We recommend the following if you wisht to clone our repository:
 
 Example: git for windows
 ```bash
-git clone https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x64.git TWAINBarCodeDemo 
+git clone https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86.git TWAINBarCodeDemo 
 ```
 
 
