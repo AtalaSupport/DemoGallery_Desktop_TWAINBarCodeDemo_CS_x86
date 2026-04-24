@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWAINBarCodeDemo", "TWAINBa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3DAB6652-02CB-4CF5-8F1B-C742C439BB79}"
 	ProjectSection(SolutionItems) = preProject
-		TWAINBarCodeDemo\ImagesToScan.tif = TWAINBarCodeDemo\ImagesToScan.tif
+		ImagesToScan.tif = ImagesToScan.tif
 		README.md = README.md
 	EndProjectSection
 EndProject
