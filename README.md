@@ -8,7 +8,7 @@ This example uses the Code39 symbology, which consists of numbers, some letters,
 
 Now, lets assume a scenario of the following type:  Company X wants to convert a whole bunch of paper documents into digital documents.  The documents are text documents written by two employees.  Company X has come up with a file system that uses only numbers.  The directory for text documents is “1234”, the number of employee 1 is “4444” and the number of employee 2 is “888”.  Company also wants each filename to have the format of “111_x.tif”.  Using this system, the pages can be scanned and stored in the proper directory structure.  
 
-This is a C# application. We also offer a [VB.NET version](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_VB_x86).
+This is a C# application. We also offer a [VB.NET version](https://github.(mailto:sales@atalasoft.com)/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_VB_x86).
 
 
 ### Document Prep
@@ -43,7 +43,7 @@ This application requires a license for DotImage Document Imaging as well as our
 ## SDK Dependencies
 This app was built based on 2026.2.0.0. It targets .NET Framework 4.6.2 and was created in Visual Studio 2019. You must have our SDK installed (and licesed per above)
 
-[Download DotImage](https://www.atalasoft.com/BeginDownload/DotImageDownloadPage)
+[Download DotImage](https://www.atalasoft.(mailto:sales@atalasoft.com)/BeginDownload/DotImageDownloadPage)
 
 
 ### Using NuGet for SDK Dependencies
@@ -67,7 +67,7 @@ Still, if you wish to use NuGet for the dependencies instead of relying on local
 
 
 ## Downloading source
-The sources can be downloaded for [c#](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86/archive/refs/heads/main.zip) and [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_VB_x86/archive/refs/heads/main.zip)
+The sources can be downloaded for [c#](https://github.(mailto:sales@atalasoft.com)/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86/archive/refs/heads/main.zip) and [VB.NET](https://github.(mailto:sales@atalasoft.com)/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_VB_x86/archive/refs/heads/main.zip)
 
 
 ## Cloning
@@ -75,22 +75,22 @@ We recommend the following if you wisht to clone our repository:
 
 Example: git for windows
 ```bash
-git clone https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86.git TWAINBarCodeDemo 
+git clone https://github.(mailto:sales@atalasoft.com)/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86.git TWAINBarCodeDemo 
 ```
 
 
 ## Related documentation
 In addition to this README, the Atalasoft documentation set includes the following:  
-- [AtalaSupport Github](https://github.com/AtalaSupport/) For an extensive set of sample apps.  
-- [Atalasoft's APIs & Developer Guides page](https://www.atalasoft.com/Support/APIs-Dev-Guides) for our Developers guide and API references.  
-- [Atalasoft Support](http://www.atalasoft.com/support/) for our main support portal.
-- [Atalasoft Knowledgebase](http://www.atalasoft.com/kb2) where you can find answers to common questions / issues.  
+- [AtalaSupport Github](https://github.(mailto:sales@atalasoft.com)/AtalaSupport/) For an extensive set of sample apps.  
+- [Atalasoft's APIs & Developer Guides page](https://www.atalasoft.(mailto:sales@atalasoft.com)/Support/APIs-Dev-Guides) for our Developers guide and API references.  
+- [Atalasoft Support](http://www.atalasoft.(mailto:sales@atalasoft.com)/support/) for our main support portal.
+- [Atalasoft Knowledgebase](http://www.atalasoft.(mailto:sales@atalasoft.com)/kb2) where you can find answers to common questions / issues.  
 
 
 ## Getting Help for Atalasoft products
-Atalasoft regularly updates our support [Knowledgebase](http://www.atalasoft.com/kb2) with the latest information about our products. To access some resources, you must have a valid Support Agreement with an authorized Atalasoft Reseller/Partner or with Atalasoft directly. Use the tools that Atalasoft provides for researching and identifying issues. 
+Atalasoft regularly updates our support [Knowledgebase](http://www.atalasoft.(mailto:sales@atalasoft.com)/kb2) with the latest information about our products. To access some resources, you must have a valid Support Agreement with an authorized Atalasoft Reseller/Partner or with Atalasoft directly. Use the tools that Atalasoft provides for researching and identifying issues. 
 
-Customers with an active evaluation, or those with active support / maintenance may [create a support case](https://www.atalasoft.com/Support/my-portal/Cases/Create-Case) 24/7, or call in to support ([+1 949 236-6510](tel:19492366510) ) during our normal support hours (Monday - Friday 8:00am to 5:00PM Eastern (New York) time).  
+Customers with an active evaluation, or those with active support / maintenance may [create a support case](https://www.atalasoft.(mailto:sales@atalasoft.com)/Support/my-portal/Cases/Create-Case) 24/7, or call in to support ([+1 949 236-6510](tel:19492366510) ) during our normal support hours (Monday - Friday 8:00am to 5:00PM Eastern (New York) time).  
 
-Customers who are unable to create a case or call in may [email our Sales Team](email:sales@atalasoft.com).  
+Customers who are unable to create a case or call in may [email our Sales Team](mailto:sales@atalasoft.com).  
 
